@@ -16,7 +16,7 @@
   box-sizing: border-box;
 }
 
-html {
+html,body {
   scroll-behavior: smooth;
 }
 
@@ -407,7 +407,7 @@ a:active {
 
 @media only screen and (max-width: 400px) {
 
-html{
+html, body{
   overflow-x: hidden;
 }
   

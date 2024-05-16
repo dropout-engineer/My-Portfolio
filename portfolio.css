@@ -403,7 +403,7 @@ a:active {
 
 @media only screen and (max-width: 400px) {
 
-html{
+html, body{
   overflow-x: hidden;
 }
   

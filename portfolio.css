@@ -402,6 +402,11 @@ a:active {
 
 
 @media only screen and (max-width: 400px) {
+
+html{
+  overflow-x: hidden;
+}
+  
   nav .checkbox {
     display: block;
   }

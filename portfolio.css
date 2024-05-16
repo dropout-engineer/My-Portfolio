@@ -20,7 +20,7 @@ html {
   scroll-behavior: smooth;
 }
 
-body{
+html, body{
   overflow-x: hidden;
 }
 
@@ -407,7 +407,7 @@ a:active {
 
 @media only screen and (max-width: 400px) {
 
-body{
+html, body{
   overflow-x: hidden;
 }
   
